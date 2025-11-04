@@ -1,0 +1,20 @@
+
+📊 FACE DETECTOR ANALYSIS REPORT
+Generated on: 2025-10-31 22:51:30
+
+⚙️ BENCHMARK RESULTS:
+    • Total frames: 300
+    • Failed detections: 0
+    • Failure rate: 0.00%
+
+🧪 STRESS TEST RESULTS:
+    • Total frames: 300
+    • Failed detections: 58
+    • Failure rate: 19.33%
+
+🕒 OVERALL SUMMARY:
+    • Combined total frames: 600
+    • Combined failures: 58
+    • Overall failure rate: 9.67%
+
+✅ Report successfully generated.

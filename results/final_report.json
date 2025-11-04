@@ -1,0 +1,30 @@
+{
+    "timestamp": "2025-10-31 22:43:40",
+    "fps_results": {
+        "Benchmark": 0.8009086319786861,
+        "StressTest": 3.280568858057494
+    },
+    "failure_results": {
+        "Benchmark": {
+            "total": 300,
+            "failed": 0,
+            "failure_rate": 0.0
+        },
+        "StressTest": {
+            "total": 300,
+            "failed": 58,
+            "failure_rate": 19.333333333333332
+        }
+    },
+    "analysis": {
+        "summary": {
+            "benchmark_fps": 0.8009086319786861,
+            "stress_fps": 3.280568858057494,
+            "benchmark_fail_rate": 0.0,
+            "stress_fail_rate": 19.333333333333332,
+            "reliability_comment": "Excellent on normal scenes.",
+            "stress_comment": "Stable but struggles under noise.",
+            "final_recommendation": "YuNet is recommended for deployment because it minimizes False Negatives even under challenging lighting and motion. The proposed confidence threshold is set at **0.2** to capture as many faces as possible, accepting a few False Positives."
+        }
+    }
+}

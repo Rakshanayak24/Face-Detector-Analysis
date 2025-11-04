@@ -1,0 +1,12 @@
+{
+    "Benchmark": {
+        "total": 300,
+        "failed": 0,
+        "failure_rate": 0.0
+    },
+    "StressTest": {
+        "total": 300,
+        "failed": 58,
+        "failure_rate": 19.333333333333332
+    }
+}
